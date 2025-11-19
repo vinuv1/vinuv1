@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
 
-<h1 align="center">Hey there 👋 I'm Vinu</h1>
+<h1 align="center">Hey there 👋 I'm Vinu V</h1>
 <p align="center">Aspiring Java Full Stack Developer | Passionate Learner | Project Builder</p>
 
 ---
