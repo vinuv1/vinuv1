@@ -51,7 +51,7 @@
 ## 📌 Project Highlights
 
 ### 🌾 **Smart Assist for Agriculture (React + ML + Weather API)**  
-**Repo:** https://github.com/vinuv1/SmartAssist-Agriculture  
+**Repo:** https://github.com/vinuv1/Smart-Agriculture-Assistant  
 ✔ AI-based system offering:  
 - Crop Recommendation  
 - Yield Prediction  
