@@ -63,7 +63,7 @@
 ---
 
 ### 🚘 **Number Plate Detection – OpenCV + TensorFlow**  
-**Repo:** https://github.com/vinuv1/Number-Plate-Detection  
+**Repo:** https://github.com/vinuv1/Number-plate-detection-using-OpenCV 
 ✔ Built using Python, OpenCV & TensorFlow  
 ✔ Extracts and detects license plate characters  
 ✔ Identifies state of registration  
