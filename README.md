@@ -1,5 +1,7 @@
 <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/> </p> <h1 align="center">Hey there 👋 I'm Vinu V</h1> <p align="center">Aspiring Java Full Stack Developer | Passionate Learner | Project Builder</p>
-🚀 About Me
+
+
+# **🚀 About Me*
 
 🌱 Currently pursuing Java Full Stack Development at Kodnest
 
@@ -11,7 +13,8 @@
 
 🔧 Academic project contributor with hands-on experience
 
-🛠️ Tech Stack
+
+# **🛠️ Tech Stack*
 Languages
 <p> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> </p>
 Frontend
@@ -20,7 +23,10 @@ Backend
 <p> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> </p>
 Databases
 <p> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> </p>
-📌 Project Highlights
+
+
+# *📌 Project Highlights*
+
 🌾 Smart Assist for Agriculture (Python + ML + Flask)
 
 🔗 Repo: https://github.com/vinuv1/Smart-Agriculture-Assistant
