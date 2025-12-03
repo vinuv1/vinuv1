@@ -27,7 +27,7 @@ Databases
 
 # *📌 Project Highlights*
 
-🌾 Smart Assist for Agriculture (Python + ML + Flask)
+#*🌾 Smart Assist for Agriculture (Python + ML + Flask)
 
 🔗 Repo: https://github.com/vinuv1/Smart-Agriculture-Assistant
 
