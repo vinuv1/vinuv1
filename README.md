@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/> </p> <h1 align="center">Hey there 👋 I'm Vinu V</h1> <p align="center">Aspiring Java Full Stack Developer | Passionate Learner | Project Builder</p>
 
 
-# **🚀 About Me*
+# *🚀 About Me*
 
 🌱 Currently pursuing Java Full Stack Development at Kodnest
 
@@ -14,7 +14,7 @@
 🔧 Academic project contributor with hands-on experience
 
 
-# **🛠️ Tech Stack*
+# *🛠️ Tech Stack*
 Languages
 <p> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> </p>
 Frontend
@@ -43,7 +43,8 @@ Crop Knowledge Information
 
 Uses ML models + Weather API
 
-Fully functional UI + Flask integration
+Fully functional UI 
+
 
 🚘 Number Plate Detection – OpenCV + TensorFlow
 
@@ -58,6 +59,7 @@ Identifies registration state
 Stores data in XML format
 
 Uses TensorFlow for accuracy
+
 
 ✅ Task Manager App – React + Vite
 
@@ -77,6 +79,7 @@ Responsive UI with reusable components
 
 Smooth GitHub Pages deployment
 
+
 💙 Dating App Interface – HTML + CSS + Bootstrap
 
 🔗 Repo: https://github.com/vinuv1/Dating-App-Interface
@@ -92,6 +95,7 @@ Built using HTML + CSS + Bootstrap
 Fully responsive interface
 
 Simple and attractive user flow
+
 
 📊 GitHub Analytics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vinuv1&show_icons=true&theme=tokyonight" height="165"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinuv1&theme=tokyonight" height="165"/> </p>
