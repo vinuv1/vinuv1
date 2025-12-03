@@ -45,6 +45,7 @@ Uses ML models + Weather API
 
 Fully functional UI 
 
+<br>
 
 🚘 Number Plate Detection – OpenCV + TensorFlow
 
@@ -60,6 +61,7 @@ Stores data in XML format
 
 Uses TensorFlow for accuracy
 
+<br>
 
 ✅ Task Manager App – React + Vite
 
@@ -79,6 +81,7 @@ Responsive UI with reusable components
 
 Smooth GitHub Pages deployment
 
+<br>
 
 💙 Dating App Interface – HTML + CSS + Bootstrap
 
@@ -96,6 +99,7 @@ Fully responsive interface
 
 Simple and attractive user flow
 
+<br>
 
 📊 GitHub Analytics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vinuv1&show_icons=true&theme=tokyonight" height="165"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinuv1&theme=tokyonight" height="165"/> </p>
