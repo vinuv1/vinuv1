@@ -101,6 +101,26 @@ Simple and attractive user flow
 
 <br>
 
+<br>
+
+🥁 Drum Kit Web App – HTML + CSS + JavaScript
+
+🔗 Repo: https://github.com/vinuv1/Drum-kit
+
+🔗 Live Demo: https://vinuv1.github.io/Drum-kit/
+
+Interactive drum kit web application
+
+Play drum sounds using mouse clicks and keyboard keys
+
+Built using pure HTML, CSS, and JavaScript
+
+Keyboard event handling with audio playback
+
+Visual button animations for better user experience
+
+Responsive and beginner-friendly frontend project
+
 📊 GitHub Analytics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vinuv1&show_icons=true&theme=tokyonight" height="165"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinuv1&theme=tokyonight" height="165"/> </p>
 🔗 Connect With Me
