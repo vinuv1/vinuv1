@@ -131,17 +131,13 @@ Repository: https://github.com/vinuv1/Number-plate-detection-using-OpenCV
 
 ## GitHub Statistics
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/vinuv1?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/vinuv1?label=Stars&style=for-the-badge" />
-  <img src="https://img.shields.io/github/repos/vinuv1?label=Repos&style=for-the-badge" />
-</p>
+<div align="center">
 
-- Active Java Full Stack Developer  
-- Hands-on experience with real-world projects  
-- Continuous learner with consistent GitHub activity  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinuv1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-🔗 **Profile:** https://github.com/vinuv1
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinuv1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ---
 
