@@ -9,32 +9,6 @@ Aspiring Java Full Stack Developer | Software Engineering Graduate | Project Bui
 
 ## Projects
 
-### Smart AI Assist for Agriculture  
-**Python | Machine Learning | Flask**
-
-Repository: https://github.com/vinuv1/Smart-Agriculture-Assistant  
-
-- Developed an AI-based agriculture support system with multiple integrated features  
-- Implemented crop recommendation and yield prediction using trained machine learning models  
-- Integrated real-time weather forecasting using external APIs  
-- Provided crop knowledge information to support data-driven decisions  
-- Designed and deployed a fully functional web interface  
-
----
-
-### Number Plate Detection System  
-**Python | OpenCV | TensorFlow**
-
-Repository: https://github.com/vinuv1/Number-plate-detection-using-OpenCV  
-
-- Built a vehicle number plate detection and recognition system  
-- Detected number plates using OpenCV image processing techniques  
-- Extracted characters using machine learning models  
-- Identified vehicle registration state from extracted plate numbers  
-- Stored processed data in XML format for structured use  
-
----
-
 ### Task Manager Application  
 **React | Vite**
 
@@ -73,6 +47,32 @@ Live Demo: https://vinuv1.github.io/Drum-kit/
 - Implemented visual feedback and button animations  
 - Built using core frontend technologies  
 - Designed as a beginner-friendly interactive project  
+
+---
+
+### Smart AI Assist for Agriculture  
+**Python | Machine Learning | Flask**
+
+Repository: https://github.com/vinuv1/Smart-Agriculture-Assistant  
+
+- Developed an AI-based agriculture support system with multiple integrated features  
+- Implemented crop recommendation and yield prediction using trained machine learning models  
+- Integrated real-time weather forecasting using external APIs  
+- Provided crop knowledge information to support data-driven decisions  
+- Designed and deployed a fully functional web interface  
+
+---
+
+### Number Plate Detection System  
+**Python | OpenCV | TensorFlow**
+
+Repository: https://github.com/vinuv1/Number-plate-detection-using-OpenCV  
+
+- Built a vehicle number plate detection and recognition system  
+- Detected number plates using OpenCV image processing techniques  
+- Extracted characters using machine learning models  
+- Identified vehicle registration state from extracted plate numbers  
+- Stored processed data in XML format for structured use  
 
 ---
 
