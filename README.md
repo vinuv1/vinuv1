@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vinuv1/vinuv1/main/profile.jpg" width="260" style="border-radius:50%;" />
-</p>
 
 <h1 align="center">Vinu V</h1>
 
