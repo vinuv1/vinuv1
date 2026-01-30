@@ -133,20 +133,22 @@ Repository: https://github.com/vinuv1/Number-plate-detection-using-OpenCV
 
 <table align="center">
 <tr>
-<td align="center">
+<td align="center" width="33%">
 
-### 📊 GitHub Profile
+### ⭐ Stars
+<img src="https://img.shields.io/github/stars/vinuv1?style=for-the-badge"/>
 
-⭐ **Stars Earned**  
-📦 **Public Repositories**  
-👥 **Followers**  
-🔥 **Active Contributor**
+</td>
+<td align="center" width="33%">
 
-<p>
-  <img src="https://img.shields.io/github/stars/vinuv1?style=flat-square"/>
-  <img src="https://img.shields.io/github/repos/vinuv1?style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/vinuv1?style=flat-square"/>
-</p>
+### 📦 Repositories
+<img src="https://img.shields.io/github/repos/vinuv1?style=for-the-badge"/>
+
+</td>
+<td align="center" width="33%">
+
+### 👥 Followers
+<img src="https://img.shields.io/github/followers/vinuv1?style=for-the-badge"/>
 
 </td>
 </tr>
