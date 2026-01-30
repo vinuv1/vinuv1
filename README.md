@@ -1,128 +1,141 @@
-<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/> </p> <h1 align="center">Hey there 👋 I'm Vinu V</h1> <p align="center">Aspiring Java Full Stack Developer | Passionate Learner | Project Builder</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vinuv1/vinuv1/main/profile.jpg" width="260" style="border-radius:50%;" />
+</p>
 
+<h1 align="center">Vinu V</h1>
 
-# *🚀 About Me*
+<p align="center">
+Aspiring Java Full Stack Developer | Software Engineering Graduate | Project Builder
+</p>
 
-🌱 Currently pursuing Java Full Stack Development at Kodnest
+---
 
-💻 I build Web Apps, React Frontends, and Java-based Backends
+## Projects
 
-🔍 Exploring deeper into Full Stack Development & AI-based solutions
+### Smart AI Assist for Agriculture  
+**Python | Machine Learning | Flask**
 
-📚 Always excited to learn new technologies and build real-world projects
+Repository: https://github.com/vinuv1/Smart-Agriculture-Assistant  
 
-🔧 Academic project contributor with hands-on experience
+- Developed an AI-based agriculture support system with multiple integrated features  
+- Implemented crop recommendation and yield prediction using trained machine learning models  
+- Integrated real-time weather forecasting using external APIs  
+- Provided crop knowledge information to support data-driven decisions  
+- Designed and deployed a fully functional web interface  
 
+---
 
-# *🛠️ Tech Stack*
-Languages
-<p> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> </p>
-Frontend
-<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Bootstrap-712cf9?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> </p>
-Backend
-<p> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> </p>
-Databases
-<p> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> </p>
+### Number Plate Detection System  
+**Python | OpenCV | TensorFlow**
 
+Repository: https://github.com/vinuv1/Number-plate-detection-using-OpenCV  
 
-# *📌 Project Highlights*
+- Built a vehicle number plate detection and recognition system  
+- Detected number plates using OpenCV image processing techniques  
+- Extracted characters using machine learning models  
+- Identified vehicle registration state from extracted plate numbers  
+- Stored processed data in XML format for structured use  
 
-#*🌾 Smart Assist for Agriculture (Python + ML + Flask)
+---
 
-🔗 Repo: https://github.com/vinuv1/Smart-Agriculture-Assistant
+### Task Manager Application  
+**React | Vite**
 
-AI-Based agriculture assistant
+Repository: https://github.com/vinuv1/React-Task-Manager  
+Live Demo: https://vinuv1.github.io/React-Task-Manager/  
 
-Crop Recommendation
+- Developed a task management web application using React and Vite  
+- Implemented task creation, deletion, and state management  
+- Built reusable components with a clean and simple UI  
+- Optimized performance with fast build tooling  
+- Deployed the application using GitHub Pages  
 
-Yield Prediction
+---
 
-Weather Forecasting
+### Dating App Interface  
+**HTML | CSS | Bootstrap**
 
-Crop Knowledge Information
+Repository: https://github.com/vinuv1/Dating-App-Interface  
+Live Demo: https://vinuv1.github.io/Dating-App-Interface/  
 
-Uses ML models + Weather API
+- Designed a modern and responsive dating application interface  
+- Built using HTML, CSS, and Bootstrap  
+- Focused on layout consistency and user experience  
+- Implemented responsive design for multiple screen sizes  
 
-Fully functional UI 
+---
 
-<br>
+### Drum Kit Web Application  
+**HTML | CSS | JavaScript**
 
-🚘 Number Plate Detection – OpenCV + TensorFlow
+Repository: https://github.com/vinuv1/Drum-kit  
+Live Demo: https://vinuv1.github.io/Drum-kit/  
 
-🔗 Repo: https://github.com/vinuv1/Number-plate-detection-using-OpenCV
+- Created an interactive drum kit web application  
+- Enabled sound playback using mouse clicks and keyboard events  
+- Implemented visual feedback and button animations  
+- Built using core frontend technologies  
+- Designed as a beginner-friendly interactive project  
 
-Detects number plates using OpenCV
+---
 
-Extracts characters using ML
+## About Me
 
-Identifies registration state
+I am a motivated Software Engineering graduate with a strong foundation in Java Full Stack Development. I enjoy building scalable, efficient, and user-focused applications. I have hands-on experience in frontend and backend development through academic and real-world projects.
 
-Stores data in XML format
+Currently pursuing professional training in Java Full Stack Development at Kodnest and actively seeking opportunities to contribute to impactful software development teams.
 
-Uses TensorFlow for accuracy
+---
 
-<br>
+## Technical Skills
 
-✅ Task Manager App – React + Vite
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-🔗 Repo: https://github.com/vinuv1/React-Task-Manager
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-712cf9?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
 
-🔗 Live Demo: https://vinuv1.github.io/React-Task-Manager/
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
 
-Simple and clean Task Manager App
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-Built using React + Vite
+---
 
-Add, delete, and manage tasks
+## GitHub Statistics
 
-Fast build & optimized performance
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinuv1&show_icons=true&theme=tokyonight" height="165"/>
+</p>
 
-Responsive UI with reusable components
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinuv1&theme=tokyonight" height="165"/>
+</p>
 
-Smooth GitHub Pages deployment
+---
 
-<br>
+## Contact
 
-💙 Dating App Interface – HTML + CSS + Bootstrap
-
-🔗 Repo: https://github.com/vinuv1/Dating-App-Interface
-
-🔗 Live Demo: https://vinuv1.github.io/Dating-App-Interface/
-
-Frontend-only UI design
-
-Modern dating app layout
-
-Built using HTML + CSS + Bootstrap
-
-Fully responsive interface
-
-Simple and attractive user flow
-
-<br>
-
-<br>
-
-🥁 Drum Kit Web App – HTML + CSS + JavaScript
-
-🔗 Repo: https://github.com/vinuv1/Drum-kit
-
-🔗 Live Demo: https://vinuv1.github.io/Drum-kit/
-
-Interactive drum kit web application
-
-Play drum sounds using mouse clicks and keyboard keys
-
-Built using pure HTML, CSS, and JavaScript
-
-Keyboard event handling with audio playback
-
-Visual button animations for better user experience
-
-Responsive and beginner-friendly frontend project
-
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vinuv1&show_icons=true&theme=tokyonight" height="165"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinuv1&theme=tokyonight" height="165"/> </p>
-🔗 Connect With Me
-<p> <a href="mailto:vinunayak648@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/vinu-v42"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
-<p align="center">✨ Thanks for visiting — I'm always open to collaboration and new ideas! ✨</p>
+<p>
+  <a href="mailto:vinunayak648@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vinu-v42">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
