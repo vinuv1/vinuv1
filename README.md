@@ -1,7 +1,9 @@
 <h1 align="center">Vinu V</h1>
 
 <p align="center">
-Aspiring Java Full Stack Developer | Software Engineering Graduate | Project Builder
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=Aspiring+Java+Full+Stack+Developer;Software+Engineering+Graduate;Project+Builder" 
+  />
 </p>
 
 ---
@@ -49,89 +51,104 @@ Currently pursuing professional training in Java Full Stack Development at Kodne
 ### Task Manager Application  
 **React | Vite**
 
-- Repository: https://github.com/vinuv1/React-Task-Manager  
-- Live Demo: https://vinuv1.github.io/React-Task-Manager/  
+Repository: https://github.com/vinuv1/React-Task-Manager  
+Live Demo: https://vinuv1.github.io/React-Task-Manager/  
 
-✔ Task creation & deletion  
-✔ Reusable components  
-✔ Clean UI & optimized performance  
-✔ Deployed with GitHub Pages  
+- Developed a task management web application using React and Vite  
+- Implemented task creation, deletion, and state management  
+- Built reusable components with a clean and simple UI  
+- Optimized performance with fast build tooling  
+- Deployed the application using GitHub Pages  
 
 ---
 
 ### Dating App Interface  
 **HTML | CSS | Bootstrap**
 
-- Repository: https://github.com/vinuv1/Dating-App-Interface  
-- Live Demo: https://vinuv1.github.io/Dating-App-Interface/  
+Repository: https://github.com/vinuv1/Dating-App-Interface  
+Live Demo: https://vinuv1.github.io/Dating-App-Interface/  
 
-✔ Responsive design  
-✔ Modern UI layout  
-✔ Focused on user experience  
+- Designed a modern and responsive dating application interface  
+- Built using HTML, CSS, and Bootstrap  
+- Focused on layout consistency and user experience  
+- Implemented responsive design for multiple screen sizes  
 
 ---
 
 ### Drum Kit Web Application  
 **HTML | CSS | JavaScript**
 
-- Repository: https://github.com/vinuv1/Drum-kit  
-- Live Demo: https://vinuv1.github.io/Drum-kit/  
+Repository: https://github.com/vinuv1/Drum-kit  
+Live Demo: https://vinuv1.github.io/Drum-kit/  
 
-✔ Keyboard & mouse events  
-✔ Sound playback  
-✔ Button animations  
+- Created an interactive drum kit web application  
+- Enabled sound playback using mouse clicks and keyboard events  
+- Implemented visual feedback and button animations  
+- Built using core frontend technologies  
+- Designed as a beginner-friendly interactive project  
 
 ---
 
 ### Login Page Interface  
 **HTML | CSS**
 
-- Repository: https://github.com/vinuv1/Login-Page-Using-HTML-and-CSS  
-- Live Demo: https://vinuv1.github.io/Login-Page-Using-HTML-and-CSS/  
+Repository: https://github.com/vinuv1/Login-Page-Using-HTML-and-CSS  
+Live Demo: https://vinuv1.github.io/Login-Page-Using-HTML-and-CSS/  
 
-✔ Clean & professional UI  
-✔ Fully responsive  
-✔ Reusable authentication component  
+- Designed a clean and professional login page interface  
+- Built using pure HTML and CSS without external frameworks  
+- Implemented responsive layout for different screen sizes  
+- Focused on form alignment, input styling, and user experience  
+- Suitable as a reusable authentication UI component  
 
 ---
 
 ### Smart AI Assist for Agriculture  
 **Python | Machine Learning | Flask**
 
-- Repository: https://github.com/vinuv1/Smart-Agriculture-Assistant  
+Repository: https://github.com/vinuv1/Smart-Agriculture-Assistant  
 
-✔ Crop recommendation  
-✔ Yield prediction  
-✔ Weather API integration  
-✔ Web-based interface  
+- Developed an AI-based agriculture support system with multiple integrated features  
+- Implemented crop recommendation and yield prediction using trained machine learning models  
+- Integrated real-time weather forecasting using external APIs  
+- Provided crop knowledge information to support data-driven decisions  
+- Designed and deployed a fully functional web interface  
 
 ---
 
 ### Number Plate Detection System  
 **Python | OpenCV | TensorFlow**
 
-- Repository: https://github.com/vinuv1/Number-plate-detection-using-OpenCV  
+Repository: https://github.com/vinuv1/Number-plate-detection-using-OpenCV  
 
-✔ Plate detection using OpenCV  
-✔ Character recognition  
-✔ State identification  
-✔ XML data storage  
+- Built a vehicle number plate detection and recognition system  
+- Detected number plates using OpenCV image processing techniques  
+- Extracted characters using machine learning models  
+- Identified vehicle registration state from extracted plate numbers  
+- Stored processed data in XML format for structured use  
 
 ---
 
 ## GitHub Statistics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=vinuv1&show_icons=true&theme=tokyonight&hide_border=true" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=vinuv1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
     height="180"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=vinuv1&theme=tokyonight&hide_border=true" 
+  <img
+    src="https://streak-stats.demolab.com?user=vinuv1&theme=tokyonight&hide_border=true&fire=DD2727"
     height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinuv1&layout=compact&theme=tokyonight&hide_border=true"
+    height="160"
   />
 </p>
 
