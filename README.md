@@ -87,6 +87,20 @@ Live Demo: https://vinuv1.github.io/Drum-kit/
 
 ---
 
+### Login Page Interface  
+**HTML | CSS**
+
+Repository: https://github.com/vinuv1/Login-Page-Using-HTML-and-CSS  
+Live Demo: https://vinuv1.github.io/Login-Page-Using-HTML-and-CSS/  
+
+- Designed a clean and professional login page interface  
+- Built using pure HTML and CSS without external frameworks  
+- Implemented responsive layout for different screen sizes  
+- Focused on form alignment, input styling, and user experience  
+- Suitable as a reusable authentication UI component  
+
+---
+
 ### Smart AI Assist for Agriculture  
 **Python | Machine Learning | Flask**
 
