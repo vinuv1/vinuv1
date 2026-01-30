@@ -131,11 +131,10 @@ Repository: https://github.com/vinuv1/Number-plate-detection-using-OpenCV
 
 ## GitHub Statistics
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/vinuv1?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/vinuv1?label=Total%20Stars&style=for-the-badge" />
-  <img src="https://img.shields.io/github/repos/vinuv1?label=Public%20Repos&style=for-the-badge" />
-</p>
+-  **Overview:** https://github.com/vinuv1
+-  **Contributions:** https://github.com/vinuv1?tab=overview
+-  **Repositories:** https://github.com/vinuv1?tab=repositories
+-  **Activity:** https://github.com/vinuv1?tab=activity
 
 
 ---
